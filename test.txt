@@ -1,0 +1,2 @@
+gcloud pubsub topics publish my-topic --message "hello"
+gcloud pubsub topics publish "projects/raspberrypersonal/topics/TestTopic" --message "{"entity" : "articolo", "path" : "test.csv" }"
