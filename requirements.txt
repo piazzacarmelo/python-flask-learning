@@ -1,4 +1,4 @@
-Flask==1.1.1
+Flask==2.3.2
 requests==2.20.0
 google-cloud-datastore==1.10.0
 webapp2==2.5.2
